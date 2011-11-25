@@ -13,4 +13,9 @@ $ gem install sproutcore --pre
 $ sc-server
 ```
 
-* Visit `http://0.0.0.0:4020/todos`
+* Visit `http://localhost:4020/todos`
+
+Test
+---
+
+Visit `http://localhost:4020/todos/en/current/tests.html`
