@@ -5,4 +5,3 @@
 
 # Add initial buildfile information here
 config :all, :required => [:sproutcore], :theme => "sproutcore/empty_theme"
-
